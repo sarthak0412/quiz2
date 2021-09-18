@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(pexels-snapwire-34950.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.main-div {
+    width: 100vw;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background:url(https://www.adweek.com/wp-content/uploads/2020/03/behr-zoom-background-1-2020-652x326.jpg.webp)
+
+}
+.inner-div {
+    width: 40vw;
+    background:burlywood;
+    padding: 3rem 8rem;
+    border-radius: 1rem;
+    box-shadow: 0rem 1rem -0.7rem rgba(0, 0, 0,0.4);
+}
